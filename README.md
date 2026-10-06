@@ -1,6 +1,52 @@
-# data_security-and-privacy-
-Abstract
+# 🔐 Data Security and Privacy in Cloud Computing
 
-The shift toward cloud-centric infrastructure has fundamentally transformed data scalability; however, it has introduced a critical "Privacy-Utility Gap." While data is traditionally secured at rest and in transit, it must be decrypted for processing, leaving it vulnerable to memory-dump attacks and unauthorized access by Cloud Service Providers (CSPs).
+A research project focused on improving **data security and privacy in cloud computing environments** using **Fully Homomorphic Encryption (FHE)**, machine learning, and Explainable AI (XAI).
 
-This research introduces a robust, software-defined security framework that leverages Optimized Fully Homomorphic Encryption (FHE) to enable Data-in-Use protection. By eliminating the need for decryption during computation, the framework establishes a "Zero-Knowledge" environment.
+## 🎯 Objectives
+
+* Protect sensitive data during cloud processing.
+* Explore computation on encrypted data using FHE.
+* Compare the performance of AES and FHE.
+* Evaluate processing time, memory usage, and accuracy.
+* Investigate ML-based threat detection and XAI.
+
+## 🛠️ Technologies
+
+* Python
+* PyTorch
+* Fully Homomorphic Encryption (FHE)
+* Machine Learning
+* Explainable AI (SHAP/LIME)
+* FastAPI
+* Cloud Computing
+
+## 📊 Dataset
+
+The research uses the **UCI Census Income Dataset** to evaluate secure processing and computational performance.
+
+## 🔬 Research Focus
+
+```text
+Data
+ ↓
+Encryption
+ ↓
+Secure Cloud Processing
+ ↓
+Threat Detection
+ ↓
+Evaluation
+ ↓
+Secure Results
+```
+
+## 👨‍💻 Author
+
+**Eshetu Alemu**
+Computer Science — Hawassa University
+
+## 📚 Academic Project
+
+**Course:** Research Methods in Computer Science (CoSc3101)
+
+> This project is developed for academic and research purposes.
